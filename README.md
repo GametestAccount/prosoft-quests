@@ -1,4 +1,6 @@
-# The Descent (https://www.codingame.com/training/easy/the-descent)
+# The Descent
+
+https://www.codingame.com/training/easy/the-descent
 
 **Задание**:
 Уничтожить горы до того, как космический корабль столкнется с одной из них. Для этого необходимо стрелять в самую высокую гору на своем пути.
@@ -24,7 +26,9 @@ if (mountain_h > max_mountain_h)
 ```
 
 ---
-# Temperatures (https://www.codingame.com/training/easy/temperatures)
+# Temperatures
+
+https://www.codingame.com/training/easy/temperatures
 
 **Задание**:
 Проанализировать записи о температуре и найти близкое к нулю значение. Если два числа на одном и том же расстоянии к нулю, то более близким является положительное число.
